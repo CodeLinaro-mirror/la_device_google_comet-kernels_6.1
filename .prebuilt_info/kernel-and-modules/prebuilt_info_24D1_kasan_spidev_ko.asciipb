@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "11773769"
+    target: "comet_kasan"
+    source_file: "spidev.ko"
+  }
+  dest_file: "24D1/kasan/spidev.ko"
+  version: "11722365"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/comet-kernels/6.1"
+}

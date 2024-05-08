@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11773769"
+    build_id: "11813432"
     target: "comet_debug_kmemleak"
     source_file: "clk_exynos_gs.ko"
   }
   dest_file: "24D1/debug_kmemleak/clk_exynos_gs.ko"
-  version: "11722365"
+  version: "11813432"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

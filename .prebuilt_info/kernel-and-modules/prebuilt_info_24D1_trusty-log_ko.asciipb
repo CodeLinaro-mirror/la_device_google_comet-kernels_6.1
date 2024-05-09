@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11813432"
+    build_id: "11819260"
     target: "comet"
     source_file: "trusty-log.ko"
   }
   dest_file: "24D1/trusty-log.ko"
-  version: "11813432"
+  version: "11819260"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

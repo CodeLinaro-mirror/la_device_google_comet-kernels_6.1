@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11819260"
+    build_id: "11824194"
     target: "comet"
     source_file: "phy-exynos-mipi-dsim.ko"
   }
   dest_file: "24D1/phy-exynos-mipi-dsim.ko"
-  version: "11819260"
+  version: "11824194"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

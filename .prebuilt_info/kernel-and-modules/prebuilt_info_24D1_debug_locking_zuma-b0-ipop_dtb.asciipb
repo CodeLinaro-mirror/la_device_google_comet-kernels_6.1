@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11835354"
+    build_id: "11844228"
     target: "comet_debug_locking"
     source_file: "zuma-b0-ipop.dtb"
   }
   dest_file: "24D1/debug_locking/zuma-b0-ipop.dtb"
-  version: "11835354"
+  version: "11844228"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

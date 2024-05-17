@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11852245"
+    build_id: "11856544"
     target: "comet_debug_memory"
     source_file: "rfcomm.ko"
   }
   dest_file: "24D1/debug_memory/rfcomm.ko"
-  version: "11852245"
+  version: "11856544"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

@@ -60482,11 +60482,11 @@ ffffffc00979b760 D kallsyms_token_table
 ffffffc00979baf0 D kallsyms_token_index
 ffffffc0097cfcfd d trunc_msg
 ffffffc0097d3ea2 d f_midi_shortname
-ffffffc0097e15e7 d show_irq_gap.zeros
-ffffffc009805cde d max_tt_usecs
-ffffffc009816d2e d f_midi_longname
-ffffffc00982ea55 d pty_line_name.ptychar
-ffffffc00985c9fd d task_index_to_char.state_char.10685
+ffffffc0097e15ac d show_irq_gap.zeros
+ffffffc009805c60 d max_tt_usecs
+ffffffc009816cb0 d f_midi_longname
+ffffffc00982e9d7 d pty_line_name.ptychar
+ffffffc00985c9ba d task_index_to_char.state_char.10685
 ffffffc0098be7a8 d str__initcall__trace_system_name
 ffffffc0098be7b1 d __param_str_initcall_debug
 ffffffc0098be7c4 d mt_min_slots

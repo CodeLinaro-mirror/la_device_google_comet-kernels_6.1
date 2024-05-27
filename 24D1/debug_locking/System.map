@@ -60894,10 +60894,10 @@ ffffffc009890d58 D kallsyms_token_table
 ffffffc0098910e8 D kallsyms_token_index
 ffffffc0098c52f5 d trunc_msg
 ffffffc0098c93bd d f_midi_shortname
-ffffffc0098d6c6c d show_irq_gap.zeros
-ffffffc0098fb215 d max_tt_usecs
-ffffffc00990c316 d f_midi_longname
-ffffffc009923e53 d pty_line_name.ptychar
+ffffffc0098d6c3f d show_irq_gap.zeros
+ffffffc0098fb1e0 d max_tt_usecs
+ffffffc00990c2d3 d f_midi_longname
+ffffffc009923e10 d pty_line_name.ptychar
 ffffffc009951ebd d task_index_to_char.state_char.11256
 ffffffc0099b3730 d str__initcall__trace_system_name
 ffffffc0099b3739 d __param_str_initcall_debug

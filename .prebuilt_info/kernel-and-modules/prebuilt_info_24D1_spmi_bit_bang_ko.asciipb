@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11892570"
+    build_id: "11905656"
     target: "comet"
     source_file: "spmi_bit_bang.ko"
   }
   dest_file: "24D1/spmi_bit_bang.ko"
-  version: "11892570"
+  version: "11905656"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

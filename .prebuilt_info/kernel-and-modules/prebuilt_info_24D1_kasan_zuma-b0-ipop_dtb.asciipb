@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11905656"
+    build_id: "11904730"
     target: "comet_kasan"
     source_file: "zuma-b0-ipop.dtb"
   }
   dest_file: "24D1/kasan/zuma-b0-ipop.dtb"
-  version: "11905656"
+  version: "11904730"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

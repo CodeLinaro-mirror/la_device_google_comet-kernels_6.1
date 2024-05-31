@@ -60484,8 +60484,8 @@ ffffffc00979b7c8 D kallsyms_token_table
 ffffffc00979bb58 D kallsyms_token_index
 ffffffc0097cfd65 d trunc_msg
 ffffffc0097d3f0a d f_midi_shortname
-ffffffc0097e1614 d show_irq_gap.zeros
-ffffffc009805d03 d max_tt_usecs
+ffffffc0097e164f d show_irq_gap.zeros
+ffffffc009805d46 d max_tt_usecs
 ffffffc009816d96 d f_midi_longname
 ffffffc00982eabd d pty_line_name.ptychar
 ffffffc00985ca38 d task_index_to_char.state_char.10685

@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11924336"
+    build_id: "11939340"
     target: "comet_debug_memory_accounting"
     source_file: "cl_dsp-core.ko"
   }
   dest_file: "24D1/debug_memory_accounting/cl_dsp-core.ko"
-  version: "11924336"
+  version: "11939340"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

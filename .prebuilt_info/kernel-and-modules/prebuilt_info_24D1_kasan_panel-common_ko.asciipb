@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11924336"
+    build_id: "11939340"
     target: "comet_kasan"
     source_file: "panel-common.ko"
   }
   dest_file: "24D1/kasan/panel-common.ko"
-  version: "11924336"
+  version: "11939340"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

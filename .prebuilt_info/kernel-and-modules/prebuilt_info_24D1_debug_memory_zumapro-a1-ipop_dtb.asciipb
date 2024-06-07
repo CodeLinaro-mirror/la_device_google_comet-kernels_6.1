@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11924336"
+    build_id: "11939340"
     target: "comet_debug_memory"
     source_file: "zumapro-a1-ipop.dtb"
   }
   dest_file: "24D1/debug_memory/zumapro-a1-ipop.dtb"
-  version: "11924336"
+  version: "11939340"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

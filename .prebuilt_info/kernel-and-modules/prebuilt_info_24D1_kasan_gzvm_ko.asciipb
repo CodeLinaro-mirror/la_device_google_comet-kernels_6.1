@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11951574"
+    build_id: "11959834"
     target: "comet_kasan"
     source_file: "gzvm.ko"
   }
   dest_file: "24D1/kasan/gzvm.ko"
-  version: "11951574"
+  version: "11959834"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11959834"
+    build_id: "11963585"
     target: "comet_kasan"
     source_file: "exynos-seclog.ko"
   }
   dest_file: "24D1/kasan/exynos-seclog.ko"
-  version: "11959834"
+  version: "11963585"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

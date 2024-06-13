@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11959834"
+    build_id: "11963585"
     target: "comet_debug_api"
     source_file: "snd-soc-wm-adsp.ko"
   }
   dest_file: "24D1/debug_api/snd-soc-wm-adsp.ko"
-  version: "11959834"
+  version: "11963585"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

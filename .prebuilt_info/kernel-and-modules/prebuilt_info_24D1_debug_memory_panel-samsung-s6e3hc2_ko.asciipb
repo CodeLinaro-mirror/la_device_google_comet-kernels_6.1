@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11959834"
+    build_id: "11963585"
     target: "comet_debug_memory"
     source_file: "panel-samsung-s6e3hc2.ko"
   }
   dest_file: "24D1/debug_memory/panel-samsung-s6e3hc2.ko"
-  version: "11959834"
+  version: "11963585"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

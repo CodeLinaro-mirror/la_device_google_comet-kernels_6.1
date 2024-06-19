@@ -60484,7 +60484,7 @@ ffffffc0097cfd35 d trunc_msg
 ffffffc0097d3eda d f_midi_shortname
 ffffffc0097e15e4 d show_irq_gap.zeros
 ffffffc009805c98 d max_tt_usecs
-ffffffc009816ce8 d f_midi_longname
+ffffffc009816d23 d f_midi_longname
 ffffffc00982ea4a d pty_line_name.ptychar
 ffffffc00985c9c5 d task_index_to_char.state_char.10685
 ffffffc0098be7e0 d str__initcall__trace_system_name

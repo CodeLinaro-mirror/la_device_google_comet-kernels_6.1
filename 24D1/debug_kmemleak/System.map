@@ -59020,13 +59020,13 @@ ffffffc0096948a0 D kallsyms_markers
 ffffffc009694f20 D kallsyms_seqs_of_names
 ffffffc0096e2b78 D kallsyms_token_table
 ffffffc0096e2f08 D kallsyms_token_index
-ffffffc00971233d d trunc_msg
-ffffffc009715f1d d f_midi_shortname
-ffffffc009721d15 d show_irq_gap.zeros
+ffffffc0097122fa d trunc_msg
+ffffffc009715eda d f_midi_shortname
+ffffffc009721cd2 d show_irq_gap.zeros
 ffffffc009742f55 d max_tt_usecs
 ffffffc009752625 d f_midi_longname
 ffffffc009767ddb d pty_line_name.ptychar
-ffffffc009791904 d task_index_to_char.state_char.9536
+ffffffc0097918c9 d task_index_to_char.state_char.9536
 ffffffc0097ecbfc d str__initcall__trace_system_name
 ffffffc0097ecc05 d __param_str_initcall_debug
 ffffffc0097ecc18 d mt_min_slots

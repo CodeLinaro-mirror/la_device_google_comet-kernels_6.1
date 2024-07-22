@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "12085146"
+    build_id: "12118675"
     target: "comet"
     source_file: "ect_parser.ko"
   }
   dest_file: "24D1/ect_parser.ko"
-  version: "12085146"
+  version: "12118675"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

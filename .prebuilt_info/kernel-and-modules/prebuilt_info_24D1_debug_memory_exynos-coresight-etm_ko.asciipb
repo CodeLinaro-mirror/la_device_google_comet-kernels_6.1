@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "12118675"
+    build_id: "12129509"
     target: "comet_debug_memory"
     source_file: "exynos-coresight-etm.ko"
   }
   dest_file: "24D1/debug_memory/exynos-coresight-etm.ko"
-  version: "12118675"
+  version: "12129509"
   version_group: "kernel-and-modules"
   git_project: "device/google/comet-kernels/6.1"
 }

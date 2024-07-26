@@ -59052,8 +59052,8 @@ ffffffc0096a4bc8 D kallsyms_markers
 ffffffc0096a5248 D kallsyms_seqs_of_names
 ffffffc0096f2f80 D kallsyms_token_table
 ffffffc0096f3310 D kallsyms_token_index
-ffffffc009722a98 d trunc_msg
-ffffffc00972678f d f_midi_shortname
+ffffffc009722a6b d trunc_msg
+ffffffc009726762 d f_midi_shortname
 ffffffc00973255d d show_irq_gap.zeros
 ffffffc00975393b d max_tt_usecs
 ffffffc00976308c d f_midi_longname

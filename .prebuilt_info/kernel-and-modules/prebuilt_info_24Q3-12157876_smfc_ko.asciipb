@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12157876"
+    target: "comet"
+    source_file: "smfc.ko"
+  }
+  dest_file: "24Q3-12157876/smfc.ko"
+  version: "12157876"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/comet-kernels/6.1"
+}

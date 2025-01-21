@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12796570"
+    target: "comet"
+    source_file: "kernel-uapi-headers.tar.gz"
+  }
+  dest_file: "24Q4-12796570/kernel-uapi-headers.tar.gz"
+  version: "12796570"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/comet-kernels/6.1"
+}

@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12755779"
+    target: "comet"
+    source_file: "hl7132.ko"
+  }
+  dest_file: "trunk-12755779/hl7132.ko"
+  version: "12755779"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/comet-kernels/6.1"
+}

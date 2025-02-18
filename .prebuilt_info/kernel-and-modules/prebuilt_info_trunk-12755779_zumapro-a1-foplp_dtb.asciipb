@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12755779"
+    target: "comet"
+    source_file: "zumapro-a1-foplp.dtb"
+  }
+  dest_file: "trunk-12755779/zumapro-a1-foplp.dtb"
+  version: "12755779"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/comet-kernels/6.1"
+}

@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12755779"
+    target: "comet"
+    source_file: "snd-soc-cs40l26.ko"
+  }
+  dest_file: "trunk-12755779/snd-soc-cs40l26.ko"
+  version: "12755779"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/comet-kernels/6.1"
+}
